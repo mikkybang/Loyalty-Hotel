@@ -8,7 +8,7 @@ include ('header.html');
           <div class="col-md-10 text-center">
             <h1 class="heading" data-aos="fade-up">Welcome to <em>Loyalty Hotel and</em> Suites</h1>
             <p class="sub-heading mb-5" data-aos="fade-up" data-aos-delay="100">Discover our world-class hotel &amp; restaurant resort.</p>
-            <p data-aos="fade-up" data-aos-delay="100"><a href="hotel.html" class="btn uppercase btn-primary mr-md-2 mr-0 mb-3 d-sm-inline d-block">Explore The Beauty</a> <a href="contact.html" class="btn uppercase btn-outline-light d-sm-inline d-block">Contact Us</a></p>
+            <p data-aos="fade-up" data-aos-delay="100"><a href="hotel.php" class="btn uppercase btn-primary mr-md-2 mr-0 mb-3 d-sm-inline d-block">Explore The Beauty</a> <a href="contact.php" class="btn uppercase btn-outline-light d-sm-inline d-block">Contact Us</a></p>
           </div>
         </div>
         <!-- <a href="#" class="scroll-down">Scroll Down</a> -->
