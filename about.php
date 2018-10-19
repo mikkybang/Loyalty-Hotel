@@ -7,7 +7,7 @@ include ('header.html');
         <div class="row site-hero-inner justify-content-center align-items-center">
           <div class="col-md-10 text-center">
             <h1 class="heading" data-aos="fade-up">About Us</h1>
-            <p class="sub-heading mb-5" data-aos="fade-up" data-aos-delay="100">Enjoy your stay.</p>
+            <p class="sub-heading mb-5" data-aos="fade-up" data-aos-delay="100">We speak your language!</p>
           </div>
         </div>
         <!-- <a href="#" class="scroll-down">Scroll Down</a> -->
@@ -22,7 +22,7 @@ include ('header.html');
         <div class="row justify-content-center text-center mb-5">
           <div class="col-md-8">
             <h2 class="heading" data-aos="fade-up">Hotel Gallery</h2>
-            <p class="lead" data-aos="fade-up" data-aos-delay="100">Lorem ipsum dolor sit amet, consectetur adipisicing elit. In dolor, iusto doloremque quo odio repudiandae sunt eveniet? Enim facilis laborum voluptate id porro, culpa maiores quis, blanditiis laboriosam alias. Sed.</p>
+            <p class="lead" data-aos="fade-up" data-aos-delay="100">This property is also rated for the best value in Benin City! Guests are getting more for their money when compared to other properties in the City.</p>
           </div>
         </div>
         <div class="row">

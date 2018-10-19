@@ -24,7 +24,7 @@ include ('header.html');
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit aliquid, est reiciendis repellat sapiente consequatur aperiam, ducimus, id minima eligendi officiis, qui expedita sint culpa illum magnam ipsam adipisci possimus? Sit aspernatur eaque id sunt fuga facere hic laudantium, aperiam!</p>
           <p>Provident dolor aperiam similique maiores quasi. Quo repudiandae fuga commodi itaque dolores accusamus, dolor esse adipisci labore harum blanditiis in totam ipsum vero necessitatibus incidunt reprehenderit, id iste quas, ab, non! Voluptates, reiciendis culpa iure deserunt voluptatum itaque. Quos, soluta.</p>
           
-          <p class="mt-5"><a href="#" class="btn btn-primary uppercase">Learn More</a></p>
+          <p class="mt-5"><a href="contact.php" class="btn btn-primary uppercase">Learn More</a></p>
         </div>
       </div>
 
@@ -36,7 +36,7 @@ include ('header.html');
           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit aliquid, est reiciendis repellat sapiente consequatur aperiam, ducimus, id minima eligendi officiis, qui expedita sint culpa illum magnam ipsam adipisci possimus? Sit aspernatur eaque id sunt fuga facere hic laudantium, aperiam!</p>
           <p>Provident dolor aperiam similique maiores quasi. Quo repudiandae fuga commodi itaque dolores accusamus, dolor esse adipisci labore harum blanditiis in totam ipsum vero necessitatibus incidunt reprehenderit, id iste quas, ab, non! Voluptates, reiciendis culpa iure deserunt voluptatum itaque. Quos, soluta.</p>
           
-          <p class="mt-5"><a href="#" class="btn btn-primary uppercase">Learn More</a></p>
+          <p class="mt-5"><a href="contact.php" class="btn btn-primary uppercase">Learn More</a></p>
         </div>
       </div>
 
@@ -48,7 +48,9 @@ include ('header.html');
         <div class="row justify-content-center text-center mb-5">
           <div class="col-md-8">
             <h2 class="heading" data-aos="fade-up">Hotel Gallery</h2>
-            <p class="lead" data-aos="fade-up" data-aos-delay="100">Lorem ipsum dolor sit amet, consectetur adipisicing elit. In dolor, iusto doloremque quo odio repudiandae sunt eveniet? Enim facilis laborum voluptate id porro, culpa maiores quis, blanditiis laboriosam alias. Sed.</p>
+            <p class="lead" data-aos="fade-up" data-aos-delay="100">A 24-hour front desk and complimentary parking are offered for guests’ convenience. Laundry facilities and Private Bar are available at the Loyalty hotel.
+This property also has one of the top-rated locations in Ugbor, GRA! Guests are happier about it compared to other properties in the area.
+.</p>
           </div>
         </div>
         <div class="row">

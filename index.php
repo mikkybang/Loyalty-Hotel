@@ -25,60 +25,17 @@ include ('header.html');
         </div>
         <div class="row">
           <div class="col-lg-3 col-md-6 visit mb-3" data-aos="fade-right">
-            <a href="restaurant.html"><img src="img/img_1.jpg" alt="Image placeholder" class="img-fluid"> </a>
-            <h3><a href="restaurant.html">Food &amp; Wines</a></h3>
-            <div class="reviews-star float-left">
-              <span class="ion-android-star"></span>
-              <span class="ion-android-star"></span>
-              <span class="ion-android-star"></span>
-              <span class="ion-android-star-half"></span>
-              <span class="ion-android-star-outline"></span>
-            </div>
-            <span class="reviews-count float-right">
-              3,239 reviews
-            </span>
+            <a href="hotel.php"><img src="img/img_1.jpg" alt="Image placeholder" class="img-fluid"> </a>
+            <h3><a href="hotel.php">Food &amp; Wines</a></h3>
+            
           </div>
           <div class="col-lg-3 col-md-6 visit mb-3" data-aos="fade-right" data-aos-delay="100">
-            <a href="restaurant.html"><img src="img/img_2.jpg" alt="Image placeholder" class="img-fluid"> </a>
-            <h3><a href="restaurant.html">Resort &amp; Spa</a></h3>
-            <div class="reviews-star float-left">
-              <span class="ion-android-star"></span>
-              <span class="ion-android-star"></span>
-              <span class="ion-android-star"></span>
-              <span class="ion-android-star-half"></span>
-              <span class="ion-android-star-outline"></span>
-            </div>
-            <span class="reviews-count float-right">
-              4,921 reviews
-            </span>
+            <a href="hotel.php"><img src="img/img_2.jpg" alt="Image placeholder" class="img-fluid"> </a>
+            <h3><a href="hotel.php">Resort &amp; Spa</a></h3>
           </div>
           <div class="col-lg-3 col-md-6 visit mb-3" data-aos="fade-right" data-aos-delay="200">
-            <a href="hotel.html"><img src="img/img_4.jpg" alt="Image placeholder" class="img-fluid"> </a>
-            <h3><a href="hotel.html">Hotel Rooms</a></h3>
-            <div class="reviews-star float-left">
-              <span class="ion-android-star"></span>
-              <span class="ion-android-star"></span>
-              <span class="ion-android-star"></span>
-              <span class="ion-android-star"></span>
-              <span class="ion-android-star-outline"></span>
-            </div>
-            <span class="reviews-count float-right">
-              2,112 reviews
-            </span>
-          </div>
-          <div class="col-lg-3 col-md-6 visit mb-3" data-aos="fade-right" data-aos-delay="300">
-            <a href="yacht.html"><img src="img/img_5.jpg" alt="Image placeholder" class="img-fluid"> </a>
-            <h3><a href="yacht.html">Yacht Club</a></h3>
-            <div class="reviews-star float-left">
-              <span class="ion-android-star"></span>
-              <span class="ion-android-star"></span>
-              <span class="ion-android-star"></span>
-              <span class="ion-android-star"></span>
-              <span class="ion-android-star-outline"></span>
-            </div>
-            <span class="reviews-count float-right">
-              6,421 reviews
-            </span>
+            <a href="hotel.php"><img src="img/img_4.jpg" alt="Image placeholder" class="img-fluid"> </a>
+            <h3><a href="hotel.php">Hotel Rooms</a></h3>
           </div>
         </div>
       </div>
@@ -90,7 +47,7 @@ include ('header.html');
         <div class="row justify-content-center text-center mb-5">
           <div class="col-md-8">
             <h2 class="heading" data-aos="fade-up">A gorgeous place to enjoy your life.</h2>
-            <p class="lead" data-aos="fade-up" data-aos-delay="100">Lorem ipsum dolor sit amet, consectetur adipisicing elit. In dolor, iusto doloremque quo odio repudiandae sunt eveniet? Enim facilis laborum voluptate id porro, culpa maiores quis, blanditiis laboriosam alias. Sed.</p>
+            <p class="lead" data-aos="fade-up" data-aos-delay="100">This hotel is located in Benin City center and offers free WiFi access to guests. It has a fun place for relaxation, barbeques, gaming, live band with Comedy.</p>
           </div>
         </div>
         <div class="row">
@@ -118,7 +75,7 @@ include ('header.html');
             <!-- END slider -->
           </div>
 
-          <div class="col-md-12 text-center"><a href="hotel.html" class="">View More Photos</a></div>
+          <div class="col-md-12 text-center"><a href="hotel.php" class="">View More Photos</a></div>
         
         </div>
       </div>
