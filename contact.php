@@ -56,8 +56,8 @@ include ('header.html');
           <div class="col-md-5">
             <div class="row">
               <div class="col-md-10 ml-auto contact-info">
-                <p><span class="d-block">Address:</span> <span> 98 West 21th Street, Suite 721 New York NY 10016</span></p>
-                <p><span class="d-block">Phone:</span> <span> (+1) 435 3533</span></p>
+                <p><span class="d-block">Address:</span> <span> 36a Bonisk Cresent off Emmanuel Aghomi street, off Ekikhalo Edosomwan Avenue, Ugbor, GRA Benin city</span></p>
+                <p><span class="d-block">Phone:</span> <span> 08077069214, 08039456884</span></p>
                 <p><span class="d-block">Email:</span> <span> info@yourdomain.com</span></p>
               </div>
             </div>
