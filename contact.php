@@ -58,7 +58,7 @@ include ('header.html');
               <div class="col-md-10 ml-auto contact-info">
                 <p><span class="d-block">Address:</span> <span> 36a Bonisk Cresent off Emmanuel Aghomi street, off Ekikhalo Edosomwan Avenue, Ugbor, GRA Benin city</span></p>
                 <p><span class="d-block">Phone:</span> <span> 08077069214, 08039456884</span></p>
-                <p><span class="d-block">Email:</span> <span> info@yourdomain.com</span></p>
+                <p><span class="d-block">Email:</span> <span> info@loyaltyhotelandsuites.com</span></p>
               </div>
             </div>
           </div>

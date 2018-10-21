@@ -21,8 +21,9 @@ include ('header.html');
         <div class="text" data-aos="fade-right" data-aos-delay="200">
           <h2>5 Star Hotel</h2>
           
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit aliquid, est reiciendis repellat sapiente consequatur aperiam, ducimus, id minima eligendi officiis, qui expedita sint culpa illum magnam ipsam adipisci possimus? Sit aspernatur eaque id sunt fuga facere hic laudantium, aperiam!</p>
-          <p>Provident dolor aperiam similique maiores quasi. Quo repudiandae fuga commodi itaque dolores accusamus, dolor esse adipisci labore harum blanditiis in totam ipsum vero necessitatibus incidunt reprehenderit, id iste quas, ab, non! Voluptates, reiciendis culpa iure deserunt voluptatum itaque. Quos, soluta.</p>
+          <p>The rooms at the Hotel are furnished with care in a modern style, but still maintain a typical Venetian look with their original tiled floors, lamps made from Murano glass.
+All the rooms have a private bathroom and are equipped with all modern conveniences such as telephone with direct outside line, satellite TV, air-conditioning with individual control, central heating, mini-bar, safe, hair-dryer and Wi-Fi internet connection.
+</p>
           
           <p class="mt-5"><a href="contact.php" class="btn btn-primary uppercase">Learn More</a></p>
         </div>
@@ -33,8 +34,10 @@ include ('header.html');
         <div class="text" data-aos="fade-left" data-aos-delay="200">
           <h2>Presidential Room</h2>
           
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit aliquid, est reiciendis repellat sapiente consequatur aperiam, ducimus, id minima eligendi officiis, qui expedita sint culpa illum magnam ipsam adipisci possimus? Sit aspernatur eaque id sunt fuga facere hic laudantium, aperiam!</p>
-          <p>Provident dolor aperiam similique maiores quasi. Quo repudiandae fuga commodi itaque dolores accusamus, dolor esse adipisci labore harum blanditiis in totam ipsum vero necessitatibus incidunt reprehenderit, id iste quas, ab, non! Voluptates, reiciendis culpa iure deserunt voluptatum itaque. Quos, soluta.</p>
+          <p>Large Size hotels and personalized service that produces harmony can sometimes be a let down. The more room numbers are in a hotel the more the guest itself becomes a "number".
+
+Not so in the Loyalty Hotel and Suits. The privately owned 5-star hotel combines a very individual and personal service with a generous amount of space and additional offerings. Take to the test.</p>
+          <p></p>
           
           <p class="mt-5"><a href="contact.php" class="btn btn-primary uppercase">Learn More</a></p>
         </div>

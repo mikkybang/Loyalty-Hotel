@@ -99,9 +99,9 @@ include ('header.html');
               </div>
               <blockquote>
 
-                <p>&ldquo;Et quidem, impedit eum fugiat excepturi iste aliquid suscipit, tempore, delectus rem soluta voluptatem distinctio sed dolores, magni fugit nemo cum expedita. Totam a accusantium sunt aut autem placeat officia.&rdquo;</p>
+                <p>&ldquo;Great location, really pleasant and clean rooms, but the thing that makes this such a good place to stay are the staff. All of the people are incredibly helpful and generous with their time and advice.&rdquo;</p>
               </blockquote>
-              <p><em>&mdash; Jean Smith</em></p>
+              <p><em>&mdash; James Smith</em></p>
               
             </div>
           </div>
@@ -112,9 +112,9 @@ include ('header.html');
                 <img src="img/person_2.jpg" alt="Image placeholder" class="rounded-circle">
               </div>
               <blockquote>
-                <p>&ldquo;Lorem ipsum dolor sit amet, consectetur adipisicing elit. In dolor, iusto doloremque quo odio repudiandae sunt eveniet? Enim facilis laborum voluptate id porro, culpa maiores quis, blanditiis laboriosam alias&rdquo;</p>
+                <p>&ldquo;A friend suggested the hotel and it turned out to be very nice. Hotel staff is very friendly and they were able to book an additional night for us at the last minute. Room was comfortable and clean.&rdquo;</p>
               </blockquote>
-              <p><em>&mdash; John Doe</em></p>
+              <p><em>&mdash; Ann Osayande </em></p>
             </div>
           </div>
           <!-- END col -->
@@ -126,9 +126,9 @@ include ('header.html');
               </div>
               <blockquote>
 
-                <p>&ldquo;Nostrum, alias, provident magnam sit blanditiis laboriosam unde quaerat, at ipsam, ratione maiores saepe nisi modi corporis quas! Beatae quam, quod aspernatur debitis nesciunt quasi porro ea iste nobis aliquid perspiciatis nostrum culpa impedit aut, iure blanditiis itaque similique sunt!&rdquo;</p>
+                <p>&ldquo;This is a wonderful hotel to stay in if you want the best homely feeling and location. Loved everything about our room and even came to appreciate the steps. Everyone associated with this hotel is super.&rdquo;</p>
               </blockquote>
-              <p><em>&mdash; John Doe</em></p>
+              <p><em>&mdash; Bryan Osas</em></p>
             </div>
           </div>
           <!-- END col -->
